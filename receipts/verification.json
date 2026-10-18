@@ -1,0 +1,15 @@
+{
+  "network": "devnet",
+  "mint": "5pqmvaqpepszEYGRMjm27pdGCzEFPjLMRjTAQWH2ThQR",
+  "name": "Karina Token",
+  "symbol": "KRN",
+  "uri": "https://raw.githubusercontent.com/Kariyeva/week7-token2022/main/metadata/token.json",
+  "decimals": 6,
+  "supply": "1000",
+  "owner": "Hyux1d41Cq8LBFK56NZ3hRzmqXJJNjZrxAEfqif2XU9s",
+  "ownerBalance": "900",
+  "recipient": "6jqMLqTTiCVRocUc3dUhq2TyXq3aUQRdDu3fD1scn7nd",
+  "recipientBalance": "100",
+  "checksPassed": 7,
+  "checkedAt": "2026-10-18T16:39:17.588Z"
+}
